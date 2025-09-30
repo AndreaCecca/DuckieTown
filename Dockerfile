@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="DuckieTown"
 ARG DESCRIPTION="test"
-ARG MAINTAINER="andrea andrea.ceccarelli@unifi.it"
+ARG MAINTAINER="andreacecca andrea.ceccarelli@unifi.it"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
